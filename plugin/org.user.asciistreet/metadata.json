@@ -1,0 +1,12 @@
+{
+    "KPackageStructure": "Plasma/Wallpaper",
+    "KPlugin": {
+        "Authors": [{ "Name": "ascii-street" }],
+        "Category": "",
+        "Description": "Animated ASCII-art rainy street with a live clock on the bus-stop board",
+        "Id": "org.user.asciistreet",
+        "License": "GPL-3.0+",
+        "Name": "ASCII Rainy Street",
+        "Version": "0.1"
+    }
+}

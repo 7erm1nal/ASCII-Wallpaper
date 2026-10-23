@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <group name="General">
+    <entry name="RainDensity" type="Double"><default>1.0</default></entry>
+    <entry name="Wind" type="Double"><default>-0.10</default></entry>
+    <entry name="Fps" type="Int"><default>20</default></entry>
+    <entry name="Brightness" type="Double"><default>1.0</default></entry>
+    <entry name="Lightning" type="Bool"><default>true</default></entry>
+    <entry name="Locale" type="String"><default>en_US</default></entry>
+    <entry name="FontFamily" type="String"><default>monospace</default></entry>
+  </group>
+</kcfg>
